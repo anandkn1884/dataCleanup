@@ -1,5 +1,5 @@
 # dataCleanup
-Data cleanup code written in Python
+Data cleanup code written in Python that used Natural Language Took Kit (NLTK) Libraries.
 
 Uses various libraries and logics for data preprocessing
 
