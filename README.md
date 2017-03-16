@@ -1,7 +1,5 @@
 # dataCleanup
-Data cleanup code written in Python that used Natural Language Took Kit (NLTK) Libraries.
-
-Uses various libraries and logics for data preprocessing
+Data cleanup code written in Python that uses Natural Language Took Kit (NLTK) Libraries and various other libraries and logic for data preprocessing
 
 1. Read files from a given path one by one.
 2. Read lines from each file.
